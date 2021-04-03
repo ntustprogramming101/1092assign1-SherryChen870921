@@ -1,5 +1,5 @@
 PImage bg,soil,life,groundhog,robot,soldier;
-int x;
+int x; //soldier Speed
 
 
 void setup() {
